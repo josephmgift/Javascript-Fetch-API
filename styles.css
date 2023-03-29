@@ -1,0 +1,13 @@
+body {
+    background: black;
+    font-size: 15pt;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+a {
+    color: green;
+    text-decoration: none;
+    border: green solid;
+    padding: 10px;
+}
